@@ -14,7 +14,7 @@ conn = sqlite3.connect('player.db')
 
 c = conn.cursor()
 
-TOKEN = "ODg5MjIzNTU2OTcyNTc2Nzc4.YUeH-A.JKTAzH9VOOD2RQDYrk56GtDdQJM"
+TOKEN = "HIDDEN THING"
 
 intents = discord.Intents.default()
 intents.members = True
